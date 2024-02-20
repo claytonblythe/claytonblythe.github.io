@@ -22,6 +22,6 @@ View an immersive, high definition, curated art selection in Apple Vision Pro's 
 
 Website for Artful Vision Apple Vision Pro app
 
-Contact: claytondblythe@gmail.com
+Support / Contact: claytondblythe@gmail.com
 
 Submit Bugs & Issues with Artful Vision App Issues in repo https://github.com/claytonblythe/claytonblythe.github.io/tree/main, or here https://github.com/claytonblythe/artfulvision.github.io
