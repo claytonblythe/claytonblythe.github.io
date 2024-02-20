@@ -2,6 +2,9 @@
 
 ## Artful Vision App
 
+[a link](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.07.48.png)
+
+
 Description:
 
 View an immersive, high definition, curated art selection in Apple Vision Pro's spatial vision. Place, zoom, and click to learn more about the artist and artwork. High quality images provide an interactive and relaxing experience, surpassing the experience of a museum, all within the comfort of your own home.
@@ -11,4 +14,4 @@ Website for Artful Vision Apple Vision Pro app
 
 Contact: claytondblythe@gmail.com
 
-For Issues with Artful Vision App: Open Issues in this repo, or here https://github.com/claytonblythe/artfulvision.github.io
+Submit Bugs & Issues with Artful Vision App Issues in this repo, or here https://github.com/claytonblythe/artfulvision.github.io
