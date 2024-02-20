@@ -1,6 +1,6 @@
 # claytonblythe.github.io
 
-## Artful Vision App
+# Artful Vision App
 
 ![a link](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/appstore.png?raw=true
 )
