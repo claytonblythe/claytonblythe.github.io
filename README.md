@@ -2,7 +2,7 @@
 
 ## Artful Vision App
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.07.48.png)
+[a link](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.07.48.png)
 
 
 Description:
