@@ -4,10 +4,10 @@
 
 ![a link](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.07.48.png?raw=true)
 
-![a link]([https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.07.48.png?raw=true](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.04.59.png?raw=true))
+![a link](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.04.59.png?raw=true)
 
 
-![a link]([https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.07.48.png?raw=true](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.09.47.png?raw=true))
+![a link](https://github.com/claytonblythe/claytonblythe.github.io/blob/main/Screenshot-02-19-2024-21.09.47.png?raw=true)
 
 
 
