@@ -24,4 +24,4 @@ Website for Artful Vision Apple Vision Pro app
 
 Contact: claytondblythe@gmail.com
 
-Submit Bugs & Issues with Artful Vision App Issues in this repo, or here https://github.com/claytonblythe/artfulvision.github.io
+Submit Bugs & Issues with Artful Vision App Issues in repo https://github.com/claytonblythe/claytonblythe.github.io/tree/main, or here https://github.com/claytonblythe/artfulvision.github.io
